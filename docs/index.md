@@ -66,4 +66,3 @@ def bubble_sort(items):
 :fontawesome-brands-twitter:{ .twitter }
 
 :octicons-heart-fill-24:{ .heart }
-
